@@ -1,8 +1,5 @@
 # ProjectBank
 
-Proiect realizat folosind NetBeans si Java
-In folder-ul dist se gaseste un executabil pentru aplicatie si un fisier text care contine 3 conturi deja create.
-Cele 3 conturi deja existente si parolele: 
-vasi parola
-andu 1234
-alin 1234
+Made in Java and Netbeans
+Dist folder contain an app executable.
+Simple atm like app where you can make an bank account. All accounts can be tracked using FISC section of the app, so that you can see when a specifc account made a money extraction/insertion and the date when he did.  
